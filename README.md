@@ -4,11 +4,11 @@ Repo for coursera Intro to Machine Learning by Stanford University
 
 Everything here is implemented in Matlab
 
-## To Do
+#### To Do
 
 ~~1. Linear Regression~~
 
-~~. Logistic Regression~~
+~~2. Logistic Regression~~
 
 ~~3. Neural Networks~~
 
