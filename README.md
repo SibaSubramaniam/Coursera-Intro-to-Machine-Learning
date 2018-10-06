@@ -4,20 +4,22 @@ Repo for coursera Intro to Machine Learning by Stanford University
 
 Everything here is implemented in Matlab
 
-~~1. Linear Regression
+#To Do
 
-~~. Logistic Regression
+~~1. Linear Regression~~
 
-~~3. Neural Networks
+~~. Logistic Regression~~
 
-~~4. Support Vector Machines
+~~3. Neural Networks~~
 
-~~5. Error Level Analysis
+~~4. Support Vector Machines~~
 
-~~6. K-Means Clustering
+~~5. Error Level Analysis~~
 
-~~7. Principal Component Analysis
+~~6. K-Means Clustering~~
 
-~~8. Recommender Systems
+~~7. Principal Component Analysis~~
+
+~~8. Recommender Systems~~
 
 
